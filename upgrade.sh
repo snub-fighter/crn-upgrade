@@ -2,7 +2,7 @@
 echo "Upgrading Casinocoind service to latest "
 echo " You will be prompted for your password "
 echo " Ensure you are not root - USE SUDO USER "
-cd ~
+
 
 sudo rm casinocoind* 
 
